@@ -1,0 +1,52 @@
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.app {
+  padding: 16px;
+  background-color: #FEF0E7;
+  display: flex;
+  flex-direction: column;
+  flex: 12;
+  align-items: center;
+}
+
+.page-wrapper {
+  height: calc(100vh - 112px);
+  max-height: calc(100vh - 112px);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+li:hover {
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+svg {
+  vertical-align: middle;
+  fill: #333333;
+  height: 23px;
+  opacity: 1;
+  width: 23px;
+}
+
+@media (max-width: 800px)
+{
+  .app-wrapper {
+    min-height: 100vh;
+    padding: 0px;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .page-wrapper {
+    height: calc(100vh - 191px);
+  }
+}
+
+

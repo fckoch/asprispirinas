@@ -1,0 +1,28 @@
+.portfolio {
+  display: grid;
+  background-color: #FEF0E7;
+  grid-auto-flow: column;
+  grid-template-rows: calc(50vh - 66px) calc(50vh - 66px);
+}
+
+.card-wrapper {
+  position: relative;
+}
+
+.card-image {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.top {
+  position: absolute;
+  bottom: 0;
+}
+
+@media (max-width: 800px)
+{
+  .portfolio {
+    grid-template-rows: calc((100vh - 193px)/3) calc((100vh - 193px)/3) calc((100vh - 193px)/3);
+  }
+
+}

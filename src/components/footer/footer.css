@@ -1,0 +1,23 @@
+.footer {
+  background-color: #FEF0E7;
+  flex: 1;
+  margin-top: 8px;
+}
+
+.icons-wrapper {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.asprispirinas {
+  display: flex;
+  justify-content: center;
+}
+
+.icon-wrapper {
+  cursor: pointer;
+}
