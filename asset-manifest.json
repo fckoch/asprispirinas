@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/asprispirinas/static/css/main.281a8277.css",
-    "main.js": "/asprispirinas/static/js/main.d2257436.js",
+    "main.js": "/asprispirinas/static/js/main.87156993.js",
     "static/js/787.5cdac685.chunk.js": "/asprispirinas/static/js/787.5cdac685.chunk.js",
     "static/media/comic_a_1.jpeg": "/asprispirinas/static/media/comic_a_1.f40e4b4b719bc3095c5c.jpeg",
     "static/media/comic_b_4.jpeg": "/asprispirinas/static/media/comic_b_4.149b04854b0893dfc619.jpeg",
@@ -49,11 +49,11 @@
     "static/media/slick.woff": "/asprispirinas/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/asprispirinas/index.html",
     "main.281a8277.css.map": "/asprispirinas/static/css/main.281a8277.css.map",
-    "main.d2257436.js.map": "/asprispirinas/static/js/main.d2257436.js.map",
+    "main.87156993.js.map": "/asprispirinas/static/js/main.87156993.js.map",
     "787.5cdac685.chunk.js.map": "/asprispirinas/static/js/787.5cdac685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.281a8277.css",
-    "static/js/main.d2257436.js"
+    "static/js/main.87156993.js"
   ]
 }
